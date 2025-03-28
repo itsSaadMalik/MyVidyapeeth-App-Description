@@ -1,2 +1,6 @@
 # MyVidyapeeth App Description
-<center><div><img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/myvidyapeeth_logo.png" /></div></center>
+<center>
+    <div class="center-absolute">
+        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" />
+    </div>
+</center>

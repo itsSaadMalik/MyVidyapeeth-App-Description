@@ -1,1 +1,1 @@
-# MyVidyapeeth-App-Description
+# MyVidyapeeth App Description

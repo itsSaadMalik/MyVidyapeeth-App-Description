@@ -2,7 +2,7 @@
 <body>
 
 <h1>MyVidyapeeth App Description   
-        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="150" width="160" align="center" />
+        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="155" width="160" align="center" />
  
 </h1>
 <!-- <center>
@@ -15,6 +15,21 @@
 <h3>📌 Overview</h3>
 MyVidyapeeth is an innovative academic management platform designed to simplify and enhance the learning experience for students, educators, and institutions. With an intuitive interface and powerful features, MyVidyapeeth ensures seamless communication, resource management, and academic tracking—all in one place.
 <br>
+<h3>What's Different ⁉ </h3>
+ 
+While many software solutions help manage educational organizations, they often lack key features such as:<br>
+
+<b>• Custom Defaulter TimeSlot Configuration </b>– Define and manage your own defaulter time slots. ⏳<br>
+
+<b>• One-Click Defaulter List Generation</b> – Generate defaulter lists instantly. 📋<br>
+
+<b>• Leave Application Management </b>– Streamline the leave approval process. 📝<br>
+
+<b>• Support for Multiple Colleges</b> – Manage multiple institutions under one system. 🏛️<br>
+
+<b>• Dedicated Admin Panel</b> – Each college/organization gets its own admin control panel. 🖥️<br>
+
+<b>• Custom Leave Application Stages </b>– Define and optimize leave approval workflows as per your institution's needs. ⚙️<br>
 
 <h3>🎯 Features</h3>
 <div style="display: inline-block; margin-bottom: 10px; background: lightgray; padding: 10px;">
@@ -26,6 +41,8 @@ MyVidyapeeth is an innovative academic management platform designed to simplify 
 ✅ Resource Hub – Centralized access to study materials, lecture notes, and reference documents.<br>
 ✅ Notifications & Alerts – Stay updated with real-time announcements and academic reminders.<br>
 ✅ Leave Applications –  Apply and Manage Leave Appliactions.<br>
+✅ Monthly Defaulters –  Create Custom Defaulter Timeslot and Generate Defaulters.<br>
+
 <br>
 <h2>🛠 Tech Stack</h2>
 <div style="display: inline-block; margin-right: 10px; background: lightgray; padding: 10px;">

@@ -1,7 +1,8 @@
  
 <body>
+
 <h1>MyVidyapeeth App Description   
-        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="150" width="150" align="center" />
+        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="150" width="160" align="center" />
  
 </h1>
 <!-- <center>
@@ -13,11 +14,11 @@
 
 <h3>📌 Overview</h3>
 MyVidyapeeth is an innovative academic management platform designed to simplify and enhance the learning experience for students, educators, and institutions. With an intuitive interface and powerful features, MyVidyapeeth ensures seamless communication, resource management, and academic tracking—all in one place.
+<br>
 
 <h3>🎯 Features</h3>
 <div style="display: inline-block; margin-bottom: 10px; background: lightgray; padding: 10px;">
 ✅ Student Dashboard – Access timetables, assignments, and academic progress at a glance.<br>
-    
 </div>
 
 ✅ Faculty Management – Enables educators to upload study materials, manage attendance, and communicate with students.<br>
@@ -25,7 +26,7 @@ MyVidyapeeth is an innovative academic management platform designed to simplify 
 ✅ Resource Hub – Centralized access to study materials, lecture notes, and reference documents.<br>
 ✅ Notifications & Alerts – Stay updated with real-time announcements and academic reminders.<br>
 ✅ Leave Applications –  Apply and Manage Leave Appliactions.<br>
-
+<br>
 <h2>🛠 Tech Stack</h2>
 <div style="display: inline-block; margin-right: 10px; background: lightgray; padding: 10px;">
   
@@ -46,7 +47,5 @@ MyVidyapeeth is an innovative academic management platform designed to simplify 
 <b> Authentication :</b> Firebase Auth / Custom Auth Solution <img src="https://s3.amazonaws.com/cdn.hotglue.xyz/images/logos/firebase-auth.png" height="30" align="center" />
 
 </div>
-
-<h2>📷 Screenshots</h2>
+<br>
  
-🚀 Getting Started</body>

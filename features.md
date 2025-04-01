@@ -31,7 +31,7 @@
 <h3>2️⃣ Check Monthly Defaulters </h3> – View a detailed list of students falling below the required attendance threshold. 📅  
 <br><br>
  
-<p><img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/images/apply%20for%20leave_20250330_183620_0005.png?raw=true"  align="center" height="350" width="350"/>
+<p><img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/images/apply%20for%20leave_20250330_183620_0005.png?raw=true"  align="center" height="350" width="370"/>
 
 </p>
 <h2>📌  Leave Applications  <img src="https://cdn-icons-png.flaticon.com/512/3387/3387188.png" align="center" height="45" width="45" /></h2>

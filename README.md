@@ -1,6 +1,5 @@
  
 <body>
-
 <h1>MyVidyapeeth App Description   
         <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="155" width="160" align="center" />
  
@@ -60,6 +59,7 @@ While many software solutions help manage educational organizations, they often 
 <b>State Management : </b> Riverpod Flutter  <img src="https://riverpod.dev/img/full_logo.svg" height="20" align="center" />
 </div>
 <div style="display: inline-block; margin-right: 10px; background: lightgray; padding: 10px;">
+<br>
   
 <b> Authentication :</b> Firebase Auth / Custom Auth Solution <img src="https://s3.amazonaws.com/cdn.hotglue.xyz/images/logos/firebase-auth.png" height="30" align="center" />
 
@@ -67,3 +67,8 @@ While many software solutions help manage educational organizations, they often 
 <br>
 <h4><a href="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/features.md">Features </a>are listed here</h4>
 <h4><a href="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/future_enhancements&features.md">Future ehancements and new upcoming features </a> are listed here</h4>
+
+ <h4>Github Pages Loading
+<img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/7933605e-04d3-4a5d-80ea-00fa1a2fba18.gif" height="25" width="25" align="center"/>
+ </h4>
+ 

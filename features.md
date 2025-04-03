@@ -56,6 +56,10 @@
  <img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/images/apply%20for%20leave_20250330_183621_0007.png?raw=true"  align="center" height="350" width="350"/>
  <img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/images/apply%20for%20leave_20250330_183621_0008.png?raw=true"  align="center" height="350" width="350"/>
 </p>
+<h3>✨ And There's More! ✨</h3>
+<p>The features listed above are just the beginning! 🚀 MyVidyapeeth is designed with additional functionalities that enhance the user experience but remain undisclosed for privacy and security reasons.</p>
+<p>Stay tuned for future updates as we continue to improve and expand the app! 🔒📲</p>
+
 <h2>🚀 Future Enhancements & Upcoming Features</h2>
 
 <h4>1️⃣ Class Chat </h4> – A dedicated space for students and faculty to share updates and discussions. 💬  

@@ -1,7 +1,7 @@
  
 <body>
 <h1>MyVidyapeeth App Description   
-        <img src="https://raw.githubusercontent.com/itsSaadMalik/MyVidyapeeth-App-Description/main/myvidyapeeth_logo.png" height ="155" width="160" align="center" />
+        <img src="https://github.com/itsSaadMalik/MyVidyapeeth-App-Description/blob/main/launcher_icon-removebg-preview.png" height ="155" width="160" align="center" />
  
 </h1>
 <!-- <center>
